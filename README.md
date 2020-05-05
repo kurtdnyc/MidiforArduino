@@ -8,4 +8,4 @@ The current .ino file only supports one channel. The UNO I used only had 1 inter
 
 Usage: 
 
-python converter.py <name of midi file> 
+python converter.py "name of midi file"
